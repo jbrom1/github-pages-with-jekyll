@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Should we track releases here
 
-I'm glad you are here. I plan to talk about ...
+Or, perhaps just some documentation
